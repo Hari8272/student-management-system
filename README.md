@@ -59,6 +59,7 @@ Change the ID format or password length in script.js.
 Adjust validation as per your institute's needs.
 
 🖼️ Screenshots
+
 <img width="821" height="537" alt="Screenshot 2025-10-17 222244" src="https://github.com/user-attachments/assets/4898f6a9-f4e8-4c80-ab5b-e887cdf31575" />
 
 
